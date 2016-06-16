@@ -1,0 +1,8 @@
+Other tools are more than 50 MB and hence not included
+
+List of tols used:
+CUDA 7.0
+Boost 1.55
+OpenCV 2.4
+cuDNN V3
+Matlab 2012b
